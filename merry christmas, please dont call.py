@@ -4,19 +4,22 @@ import math
 import random
 
 LYRICS = [
-    (0,   "I want one ticket out of your heavy gaze"),
+    (0,   "Just one ticket out of your heavy gaze"),
     (4,   "I want one ticket off of your carousel"),
-    (9,   "But you should know that I die slow"),
-    (13,  "Running through the halls of your haunted home"),
-    (18,  "And the toughest part is that we both know"),
-    (22,  "What happened to you"),
-    (24,  "Why you're out on your own"),
-    (26,  "Merry Christmas, please don't call"),
-    (31,  "Merry Christmas, I'm not yours at all"),
-    (36,  "Merry Christmas, please don't call me"),
-    (41,  "Please don't call me"),
-    (45,  "Please don't call me"),
-    (49,  "Please don't call me"),
+    (9,   "I want one ticket out of your heavy gaze"),
+    (13,  "I want one ticket off of your carousel"),
+    (17,  "But you should know that I die slow"),
+    (22,  "Running through the halls of your haunted home"),
+    (26,  "And the toughest part is that we both know"),
+    (30,  "What happened to you"),    
+    (32,  "Why you're out on your own"),
+    (35,  "Merry Christmas, please don't call"),
+    (39.5,  "Merry Christmas, I'm not yours at all"),
+    (44,  "Merry Christmas, please don't call me"),
+    (50,  "Please don't call me"),
+    (54,  "Please don't call me"),
+    (58,  "Please don't call me"),
+    (62,  "Merry Christmas, I love you :)"),
 ]
 
 BOX_W, BOX_H = 300, 250
